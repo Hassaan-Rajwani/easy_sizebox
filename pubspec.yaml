@@ -1,7 +1,7 @@
 name: easy_sizebox
 description: easy sizebox for spacing
 version: 0.0.1
-homepage:
+homepage: https://github.com/Hassaan-Rajwani/easy_sizebox
 
 environment:
   sdk: '>=3.1.3 <4.0.0'
